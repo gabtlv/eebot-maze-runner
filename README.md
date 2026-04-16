@@ -67,3 +67,4 @@ Project/
 
 ## Demo
 [Watch the demo](https://youtube.com/shorts/WfI_smUwLBY?si=WDBUtu6Xvxol7ZI9)
+![Robot demo](images/demo.png)
