@@ -64,3 +64,6 @@ Project/
 - **IDE:** Freescale CodeWarrior for HCS12
 - **Language:** HCS12 Assembly (absolute, single-file)
 - **Target:** Freescale 9S12C32 microcontroller
+
+## Demo
+[Watch the demo](https://youtube.com/shorts/WfI_smUwLBY?si=WDBUtu6Xvxol7ZI9)
